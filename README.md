@@ -24,7 +24,8 @@ Technologies Used:
 
 - Payments: Stripe
 
-  Steps to Run Locally
+  Steps to Run Locally:
+  
 - Clone the repository using git clone https://github.com/username/repo-name.git and navigate to the project directory with cd repo-name.
 - Install the necessary dependencies by running npm install.
 - Create a .env file in the root directory and add the required environment variables.
