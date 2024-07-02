@@ -1,17 +1,27 @@
  - website name : Medi Shop ,
 - Live Site Link: https://b9-a12-medishop.netlify.app/ ,
+- 
 Features of this website :
+
 1 - Responsive Design: Enjoy seamless user experience across devices—mobile, tablet, and desktop—ensuring accessibility and usability regardless of screen size.
+
 2 - User-friendly Interface: Intuitive navigation with clear categorization and search functionalities for easy browsing and quick access to desired products.
+
 3 - Secure User Authentication: Robust user authentication and authorization mechanisms, including social login options (Google), ensuring secure access and personal data protection.
+
 4 - Real-time Updates: Stay updated with real-time notifications and alerts for successful transactions, CRUD operations, and important system updates using SweetAlert for user-friendly prompts.
 
 
 Technologies Used:
+
 - Frontend: React.js, Tailwind CSS, React Hook Form, React Helmet, SwiperJS, TanStack Query
+
 - Backend: Node.js, Express.js
+
 - Database: MongoDB
+
 - Authentication: Firebase Authentication
+
 - Payments: Stripe
 
   Steps to Run Locally
